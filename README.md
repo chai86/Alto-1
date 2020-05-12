@@ -1,73 +1,196 @@
-This Privacy Policy explains how Calm.com, Inc. (“Calm”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile application, and other online products and services (collectively, the “Services”), and when you contact our customer service team, engage with us on social media, or otherwise interact with us.
-We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.
-Collection of Information
-Information You Provide to Us
-We collect information when you register for an account, participate in interactive features (like submit a meditation rating), fill out a form or a survey, participate in a contest or promotion, make a purchase, communicate with us via social media sites, request customer support, or otherwise communicate with us. The information you may provide includes your name, email, password, goals, previous meditation experience, street address, payment method information, feedback and survey responses, and other information about you included within your messages to us. Some users also provide health-related information in connection with providing feedback or other messages to us, and we process that information consistent with the purpose for which it was provided.
-Other Information About Your Use of the Services
-When you use our Services, we collect the following information about you:
-Usage Information: Whenever you use our Services, we collect usage information, such as the sessions you use, videos you view or music you listen to, what screens or features you access, and other similar types of usage information.
-Transactional Information: When you make a purchase or return, we collect information about the transaction, such as product description, price, subscription or free trial expiration date, and time and date of the transaction.
-Log Information: We collect standard log files when you use our Services, which include the type of web browser you use, app version, access times and dates, pages viewed, your IP address, and the page you visited before navigating to our websites.
-Device Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, device identifiers set by your device operating system, and mobile network information (like your connection type, carrier and region).
-Information we Generate: We generate some information about you based on other information we have collected. For example, like most platforms, we use your IP address to derive the approximate location of your device. We also use your first name to make an educated guess about your gender and use information about your activity to help determine the likelihood of you continuing to use our Services in the future (which we hope will be the case!).
-Information Collected by Cookies and Similar Tracking Technologies: We use different technologies to collect information, including cookies and web beacons. Please see our Cookie Policy for more details: https://www.calm.com/cookies
-Information We Collect from Other Sources
-We also obtain information about you from other sources, including transaction information from third-party app stores you use to install our app or purchase a subscription and name and contact information from third-party calendar services. Additionally, if you create or log into your account through a social media service account, we will have access to certain information from that account, such as your name and other account information, in accordance with the authorization procedures set by that social media service.
-Use of Information
-We use the information we collect to:
-Provide, maintain and improve our Services, and develop new products and service;
-Process transactions and fulfill orders;
-Send you transactional or relationship messages, such as receipts, account notifications, customer service responses, and other administrative messages;
-Communicate with you about products, services, and events offered by Calm and others, request feedback, and send news, gifts or other information we think will be of interest to you;
-Monitor and analyze trends, usage, and activities in connection with our Services;
-Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Calm and others. If you feel your transaction was declined in error, please contact us for assistance at support.calm.com;
-Comply with the law, such as by processing transactional records for tax filings;
-Personalize your online experience and the advertisements you see on other platforms based on your preferences, interests, and browsing behavior; and
-Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards.
-Sharing of Information
-We share information about you as follows and as otherwise described in this Privacy Policy:
-With companies and contractors that perform services for us, including email service providers, payment processors, fraud prevention vendors and other service providers;
-In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
-If we believe your actions are inconsistent with our user agreements or policies, if we believe you have violated the law, or to protect the rights, property, and safety of Calm or others;
-In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
-Between and among Calm and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; and
-With your consent or at your direction. For instance, you may choose to share actions you take on our Services with third-party social media services via the integrated tools we provide via our Services.
-We also share aggregated or other information not subject to obligations under the data protection laws of your jurisdiction with third parties. For example, we sometimes share aggregate information with research organizations to help facilitate their research.
-Advertising and Analytics Services Provided by Others
-We allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and online services, including your IP address, device identifiers, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by Calm and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and online services, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. If you are in the EU, please visit www.youronlinechoices.eu/. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
-Data Transfer
-Calm is based in the United States and processes information in the United States, which may not provide equivalent levels of data protection as your home jurisdiction.
-Your Choices
+1. Introduction
+Who we are and what we do
+This Privacy Policy covers Vimeo, Inc. (collectively, “Vimeo,” “we” “us” or “our”). We provide online video hosting, sharing and related services through our owned-and-operated websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players (collectively, the “services”).
+
+Acceptance and Changes
+By registering for, downloading, or using our services, you accept this Privacy Policy, which is part of our Terms of Service. We may modify this Privacy Policy from time to time. We will post any modified version of our Privacy Policy at https://vimeo.com/privacy. If we change the Privacy Policy in a way that materially lessens our commitments to you, we will provide notice to registered users by email or other methods.
+
+2. Children's Privacy
+We do not knowingly collect personal information from individuals who are under the minimum required ages specified herein. You must be at least 16 years old or the age of majority in your jurisdiction, whichever is greater, to use our services. Individuals under the applicable age may use our services only through a parent or legal guardian's account and with their involvement. If you are a parent or legal guardian who believes your child has provided personal information to Vimeo without your consent, you may ask us to delete such information by contacting us at privacy@vimeo.com.
+
+3. Data We Collect About You
+We collect information about you when you use our services. In addition, third parties may collect information about you when you use our services. Collected information may include or reflect personal information that could identify you, as well as non-personal information. We refer to your information as "your data" for short.
+
 Account Information
-You may update certain account information you provide to us (such as your password, name and email address) by logging into your account or contacting us through our Help Center at support@calm.com. If you wish to disable your account, please contact us at support@calm.com, but note that we retain certain information when required or permitted by law. We also retain cached or archived copies of information about you for a certain period of time.
-Promotional Communications
-You may opt out of receiving promotional emails from Calm by following the instructions in those emails or by logging into your account. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
-Mobile Push Notifications/Alerts
-With your consent, we send promotional and other push notifications to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
-Information for Individuals in Switzerland, UK and the EEA
-The sections below apply to you if you use our Services while in Switzerland, the United Kingdom or the European Economic Area (collectively, “Europe”).
-Legal Basis for Processing
-When we process your personal data we will only do so in the following situations:
-As necessary to perform our responsibilities under our contract with you (like processing payments and providing the products or services you have requested);
-When we have a legitimate interest in processing your personal data, including to communicate with you about changes to our Services, to help secure and improve our Services (including to prevent fraud) and to analyze use of our Services;
-As necessary to comply with our legal obligations; and
-When we have your consent to do so.
-Data Retention
-We retain personal data for no longer than is necessary for the purposes for which it is processed, unless applicable law requires storage for a longer period of time.
-Data Subject Requests
-Subject to certain limits and conditions provided under law, you have the following rights:
-You have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or made available in a portable form.
-You also have the right to object to certain processing (like receiving direct marketing), or request that we restrict processing in certain circumstances (like to retain but not further process pending resolution of a claim).
-When we ask for your consent, you may withdraw that consent at any time.
-You have the right to file a complaint regarding our data protection practices with a supervisory authority. Please see this directory for contact details: https://edpb.europa.eu/about-edpb/board/members_en. If you are in Switzerland, please visit this FDPIC site for contact details: https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html
-If you would like to exercise any of these rights and can’t do so directly via the Services or your device, you may contact us as indicated below.
-Information for California Residents
-This section provides additional disclosures required by the California Consumer Privacy Act (or “CCPA”).
-In the last 12 months, we collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials or health-related information). For more details about the personal information we collect, including the categories of sources, please see the “Collection of Information” section above. We collect this information for the business and commercial purposes described in the “Use of Information” section above. We share this information with the categories of third parties described in the “Sharing of Information” section above.
-Subject to certain limitations and exceptions, the CCPA provides California consumers the right to request to know more details about the categories and specific pieces of personal information, to delete their personal information, to opt out of any “sales” that may be occurring, and to not be discriminated against for exercising these rights.
-We do not “sell” the personal information we collect (and will not sell it in the future without providing a right to opt out).
-California consumers may make a rights request by emailing us at support@calm.com We will verify your request by asking you to provide information that matches information we have on file about you. Consumers can also designate an authorized agent to exercise these rights on their behalf, but we will require proof that the person is authorized to act on your behalf and may also still ask you to verify your identity with us directly.
-Contact Us
-If you have any questions about this Privacy Policy, please contact us at: support@calm.com or legal@calm.com.
-If you are in Europe, you may also contact our representative at:
-EEA: The DPO Centre 50 Liverpool Street London, EC2M 7PY (EURep@calm.com )
+To create an account, you must provide a valid email address and password. If you choose to sign-up and/or authenticate using a third-party account (e.g., Facebook, Google), you authorize us to obtain account information from the third-party platform.
+
+Financial Information
+To make a purchase, you may need to provide a valid payment method (e.g., credit card or PayPal account). Your payment information will be collected and processed by our authorized payment vendors. We do not directly collect or store credit or debit card numbers ourselves in the ordinary course of processing transactions. If we allow purchase through a third-party platform (i.e. in-app purchase), the payment method stored with the third-party platform will be charged.
+
+If you wish to sell items or earn money from advertising through our services, you must provide an account to receive funds and tax information, which may include your name, address, and taxpayer identification number.
+
+Content
+Accountholders may create a profile and upload content such as videos, text, photographs, and artwork. Your profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, descriptions, tags, etc.) are viewable by others. Your interactions with other users (e.g., comments, "likes," private messages) may be seen by others. You may choose to limit the availability of your profile and videos. For more details, see Section 9.
+
+If you submit images or videos to us in connection with our video creation and editing tools, we may analyze such content using a variety of techniques, including machine-learning algorithms, for the sole purpose of creating a video at your direction. In doing so, we may derive facial-related information from your content solely for the purpose of creating a video for you. This information may be used, for example, to locate a face within a frame. Facial landmarks are retained for 48 hours after a video editing session. We do not collect, use, or store any facial-related information for the purpose of recognizing faces outside of the limited video-creation purposes set forth herein.
+
+Other Information You May Submit
+You may submit data to us for limited purposes such as requesting customer support; answering a questionnaire; participating in a study; entering contests or sweepstakes; or signing up to receive communications from us or another user.
+
+Automatically-Collected Information
+We automatically collect certain types of data when you use our services, regardless of whether you have an account. This data includes your IP address, technical information about your device (e.g., browser type, operating system, basic device information), the web page you visited or search query you entered before reaching us, and your activities. We may track your activities using cookies and similar technologies. By using our services, you agree to our use of these methods as set forth in our Cookie Policy.
+
+Physical Products
+We collect your shipping address to send you products you have ordered.
+
+Information Collected by Third Parties
+Some third parties may collect data about you when you use our services. This may include data you submit (such as payment information) or automatically-collected information (in the case of third-party analytics providers and advertising partners).
+
+We may obtain data from third parties about you. We may combine that data with information that we have collected. For example, some advertisers or advertising platforms may allow us to determine what other online services you might use so that we may place relevant ads on those services.
+
+4. How We Use Your Data
+We may use your data for the following purposes:
+
+  Identification and authentication: We use your data to verify you when you access your account.
+  
+  Operating our services: We use your data to provide our services, process and fulfill orders, provide customer support, and to  otherwise comply with our contractual obligations to you. We (and/or our third-party vendors) use your financial information to process purchases made by you and to pay you amounts you have earned.
+  
+  Communicating with you: We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
+
+  Improving our services: We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
+  
+  Customizing your experience: We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
+  
+  Marketing and advertising: We use your data to show you ads on third-party sites and to send you offers. We may also use your data in delivering third-party advertisements to you. This may include "targeted ads" based upon your activities.
+
+  Exercising our rights: Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
+Legal compliance: We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
+
+  Protecting your information: Where appropriate, we may anonymize, backup, and delete certain data.
+We may use algorithms and other automated means to implement any of the above.
+
+Whenever we process your data for one of these purposes, we have determined that one or more of the following lawful bases apply:
+
+  Performance of a contract;
+  Legitimate commercial interest;
+  Compliance with a legal obligation; or
+  Consent
+If you require further information about the balancing test that Vimeo has undertaken to justify its reliance on legitimate interest as a lawful basis of processing, see Section 15 for information on how to contact us.
+
+5. With Whom We Share Your Data
+We share data with third parties as follows:
+
+  As you instruct: We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
+  
+  With your consent: We may share your data with third parties where we have obtained your express consent to do so.
+  
+  Authorized vendors: We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
+  
+  Advertising: We may share your data with advertising companies to display relevant ads to you.
+  
+  Analytics: We may share your data with analytics providers which help us understand how customers are using our services.
+  
+  Affiliates and advisors: We may share your data with our parent company, IAC/InterActiveCorp, and our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
+
+  Certain legal situations: We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
+
+  Aggregated or anonymized information: We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
+  
+We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share.
+
+6. Legal and Safety-Related Disclosures
+We may disclose your data in response to official requests (e.g., court orders, subpoenas, search warrants, national security requests, etc.) ("requests") that we receive from government authorities or parties to legal proceedings. We direct law enforcement agencies to our Law Enforcement Guidelines page.
+
+We handle U.S. requests in accordance with U.S. law. If the request originates from a foreign jurisdiction, we will typically disclose information where we in good faith believe that disclosure is permitted by both U.S. law and local law. In all cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
+
+We may disclose user data where we reasonably believe that someone's life is at risk. For example, if we become aware of a person threatening to commit suicide, we may share that person's data with appropriate entities that may have the ability to help.
+
+We may disclose user data to report suspected crimes. We report content suspected of exploiting minors to the National Center for Missing and Exploited Children (NCMEC) along with the data identifying the uploading user.
+
+We may disclose user data in situations involving legal claims against us or one of our users. If you submit a Digital Millennium Copyright Act (DMCA) or other takedown notice, we may share that notice with the affected user. If you challenge such a notice, we may share your response with the complainant.
+
+We may share your data with potential transaction partners, advisors, and others in the event our company is, in whole or part, acquired by a third party. In such case, we will use reasonable efforts to require the acquiring entity to comply with this Privacy Policy.
+
+7. Data Retention
+We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. We may retain logs of automatically collected information (for internal analytics and security purposes); your email address; your tax information; communications with you; and your transactional information (for auditing, tax, and financial purposes). When we no longer have a business reason for retaining data, we will delete or anonymize it.
+
+We retain deleted videos on our servers for a short period in case you wish to reverse deletion. Once we delete a video, we may not be able to recover it. If you have previously made a video public, the video or its thumbnail may be discoverable in a search engine's cache for a time. We have no control over search engines; however, we will, upon request, send a request for deletion to major search engines.
+
+If we receive legal process pertaining to your account, we will retain your data for as long as we in good faith believe is necessary to comply with the legal process. Similarly, if we believe that your account has been involved in wrongdoing, we may preserve your data to defend or assert our rights.
+
+8. Your Privacy Choices
+We enable you to make numerous choices about your data:
+
+  You may choose not to provide us with certain information. For example, you may choose not to create an account or not to provide optional account information.
+  You may change your account and video privacy settings. See Section 9 for more details.
+  You may change or correct information voluntarily submitted to us. We encourage you to keep your data current by viewing your settings page.
+  You may opt out of receiving commercial emails from us. See Section 10 for more details.
+  You may limit the use of cookies. See our Cookie Policy for options.
+  You may backup your videos.
+  You may close your account (which will delete all videos) or delete certain videos.
+Users in certain jurisdictions may have additional rights. See Section 14 for more details.
+
+9. Account and Video Privacy Settings
+As part of our services we offer you the ability to limit the distribution of your content, including your videos. This section explains some of your choices.
+
+Profile
+Some of our online subscription plans enable you to "hide" your profile or otherwise make it inaccessible on our website. Your profile will, however, remain accessible to persons who have access to your account or content.
+
+Team Members
+Some of our subscription plans enable you to grant account-level access rights to others. Persons with such access ("Team Members") may be able to see and potentially alter your data. You may revoke or downgrade Team Member access at any time.
+
+Videos
+We enable you to manage the privacy settings of your videos. On Vimeo.com, for example, your options, which depend on your subscription plan, may include:
+
+  Public (or "anyone"): Your video will be publicly-available.
+  Just you (i.e., "only me"): Your video will be available to you and authorized Team Members.
+  Selected people: Your video will be available to users you select (such as users you follow or specifically-designated users).
+  Password-protected: Your video may be accessed by anyone who enters the password you have set.
+  Private link: Your video may be accessed by anyone who enters the link assigned to it.
+  
+We provide similar options for our Livestream.com services. You may change these settings at any time. Changes will be applied on a go-forward basis. You should exercise caution in granting access to others. Once you have granted access to someone else, you lose a degree of control over the distribution of your video as those persons may share the password and/or link with other people. Regardless of your profile or video privacy settings, Vimeo reserves the right to inspect them for compliance with its Terms of Service, to provide customer support, or to address technical issues.
+
+10. Communications from Us
+Emails
+If you create an account, you may receive commercial emails from us. This includes newsletters and offers. You may always opt out from receiving commercial messages in your account settings. Please note that any opt-out request may take several days to process and you will continue to receive transactional emails from us (e.g., emails confirming transactions and/or providing information about your account).
+
+Mobile Device Communications
+We may, with your consent, send push notifications in our apps. You may disable these by declining them or changing the app's settings. To the extent provided, we may, with your consent, send SMS messages to your mobile telephone for authentication and security purposes. You may opt out of receiving such messages at any time.
+
+11. Protecting Your Information
+We use physical, technical, and organizational security measures to safeguard your data from unauthorized or accidental disclosure. Despite these efforts, no information system can be 100% secure, so we cannot guarantee the absolute security of your information. Users also have a role to play in keeping their data safe. We encourage you to use a unique and hard-to-guess password for your account and to not share it with others. You should only grant access rights to people who you know and trust, and, even then, you should be careful in granting all access rights. You should monitor your account regularly. If you believe that someone has gained access to your account without your permission, please contact us immediately so that we can investigate.
+
+12. Your Responsibilities
+You may receive other people's data in using our service. If you receive information from other users, you must comply with all laws, including those concerning privacy, data security, and online marketing.
+
+13. Third-Party Services
+We may provide links to online services that we do not own or operate. These services fall outside of this Privacy Policy and we have no control over the data they collect. For example, if you click on an advertisement, you may be taken to the advertiser's website. Once on a third-party site, your data may be collected by others. We encourage you to read the privacy policies of such services before using them.
+
+You may use our service through third-party sites. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player.
+
+14. International Data Transfers and Certain User Rights
+14.1 Location of Data
+Vimeo is based in the United States. We provide services globally using computer systems, servers, and databases located in the U.S. and other countries. When you use our services from outside of the U.S., your information may be transferred to and processed in the U.S.. Please note that U.S. data and privacy laws may not be as comprehensive as those in your country. Residents of certain countries may be subject to additional protections as set forth in Sections 14.2 and 14.3 below.
+
+14.2 GDPR (EEA Users)
+This Section 14.2 applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EU's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal bases:
+
+  Legitimate business interests: We could not provide our services or comply with our legal obligations without transferring your personal information to the U.S.
+  Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
+  Our certification and adherence to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks, as described further below.
+  
+You have the right to: opt out of non-essential cookies (see our Cookie Policy); access, correct, delete, restrict, or object to our use of your personal information; be forgotten; port your data; and withdraw consents. We enable exercise of these rights primarily through our services (which we reserve the right to modify). For example, we allow users to change their information, download their videos, and close their accounts. We also fulfil our obligations in response to direct requests. We will endeavor to process requests within one month. Please note that we may not be able to comply with requests to the extent that they would cause us to violate any law or infringe any other person's rights. We reserve the right to request appropriate identification. We will process requests free of charge unless they would impose an unreasonable cost on us.
+
+If you have a request, complaint or inquiry, please contact our Data Protection Officer at the address listed in Section 15. We are committed to working with you to obtain a fair resolution of any issue. You also have the right to file a complaint with the supervisory data protection authority of your jurisdiction.
+
+14.3 Privacy Shield (EEA, UK and Swiss Users)
+This Section 14.3 applies only to natural persons residing in the European Economic Area (EEA), the United Kingdom and Switzerland (for the purpose of this section only, "you" or "your" shall be limited accordingly). Vimeo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, "Privacy Shield") as established by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA, the United Kingdom and/or Switzerland, as applicable, to the U.S.
+
+Vimeo adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (the "Privacy Shield Principles"). Vimeo has established policies and procedures to ensure compliance with the Privacy Shield Principles and will conduct an annual internal assessment to ensure such compliance. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+
+Vimeo has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view Vimeo's certification, please visit https://www.privacyshield.gov. By making this certification, Vimeo is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
+Where Vimeo has transferred personal information of EEA, UK or Swiss residents to third parties, Vimeo shall be liable if those third parties do not process personal information in compliance with the Privacy Shield Principles. This shall not be the case where Vimeo establishes that it is not responsible for the damage caused by the third party.
+
+In accordance with Privacy Shield Principles, Vimeo commits to resolve complaints about our collection or use of your personal information. If you have inquiries or complaints regarding our Privacy Shield policy, you should first contact Vimeo at the address listed in Section 15. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact our independent recourse mechanism provider, JAMS, at https://www.jamsadr.com/eu-us-privacy-shield, to file a complaint. JAMS' services are provided at no cost to you.
+
+If you have an unresolved complaint after contacting both Vimeo and JAMS, you may elect to arbitrate your Privacy Shield claims against Vimeo pursuant to Annex I of the Privacy Shield Principles, which provides for binding arbitration administered by the American Arbitration Association. Such arbitration will be binding upon you and Vimeo.
+
+15. How to Contact Us
+For any questions, inquiries, or complaints relating to your privacy, please contact us at:
+
+Vimeo, Inc.
+Attention: Data Protection Officer
+555 West 18th Street
+New York, New York 10011
+Privacy@vimeo.com
