@@ -1,12 +1,12 @@
 1. Introduction
 Who we are and what we do
-This Privacy Policy covers Vimeo, Inc. (collectively, “Vimeo,” “we” “us” or “our”). We provide online video hosting, sharing and related services through our owned-and-operated websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players (collectively, the “services”).
+This Privacy Policy covers Alto. (collectively, “Alto ,” “we” “us” or “our”). We provide an app that enables users/uploaders to share video content/snippets of users singing and have other users quantitatively rate the content/snippets. A leaderboard highlights the best performing uploaders. 
 
 Acceptance and Changes
-By registering for, downloading, or using our services, you accept this Privacy Policy, which is part of our Terms of Service. We may modify this Privacy Policy from time to time. We will post any modified version of our Privacy Policy at https://vimeo.com/privacy. If we change the Privacy Policy in a way that materially lessens our commitments to you, we will provide notice to registered users by email or other methods.
+By registering for, downloading, or using our services, you accept this Privacy Policy, which is part of our Terms of Service. We may modify this Privacy Policy from time to time. We will post any modified version of our Privacy Policy here. If we change the Privacy Policy in a way that materially lessens our commitments to you, we will provide notice to registered users by email or other methods.
 
 2. Children's Privacy
-We do not knowingly collect personal information from individuals who are under the minimum required ages specified herein. You must be at least 16 years old or the age of majority in your jurisdiction, whichever is greater, to use our services. Individuals under the applicable age may use our services only through a parent or legal guardian's account and with their involvement. If you are a parent or legal guardian who believes your child has provided personal information to Vimeo without your consent, you may ask us to delete such information by contacting us at privacy@vimeo.com.
+We do not knowingly collect personal information from individuals who are under the minimum required ages specified herein. You must be at least 16 years old or the age of majority in your jurisdiction, whichever is greater, to use our services. Individuals under the applicable age may use our services only through a parent or legal guardian's account and with their involvement. If you are a parent or legal guardian who believes your child has provided personal information to Alto without your consent, you may ask us to delete such information by contacting us at AppAltoInfo@gmail.com.
 
 3. Data We Collect About You
 We collect information about you when you use our services. In addition, third parties may collect information about you when you use our services. Collected information may include or reflect personal information that could identify you, as well as non-personal information. We refer to your information as "your data" for short.
@@ -22,7 +22,7 @@ If you wish to sell items or earn money from advertising through our services, y
 Content
 Accountholders may create a profile and upload content such as videos, text, photographs, and artwork. Your profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, descriptions, tags, etc.) are viewable by others. Your interactions with other users (e.g., comments, "likes," private messages) may be seen by others. You may choose to limit the availability of your profile and videos. For more details, see Section 9.
 
-If you submit images or videos to us in connection with our video creation and editing tools, we may analyze such content using a variety of techniques, including machine-learning algorithms, for the sole purpose of creating a video at your direction. In doing so, we may derive facial-related information from your content solely for the purpose of creating a video for you. This information may be used, for example, to locate a face within a frame. Facial landmarks are retained for 48 hours after a video editing session. We do not collect, use, or store any facial-related information for the purpose of recognizing faces outside of the limited video-creation purposes set forth herein.
+If you submit images or videos to us, we may analyze such content using a variety of techniques, including machine-learning algorithms, for the sole purpose of identifying inappropriate material. We do not collect, use, or store any facial-related information for the purpose of recognizing faces outside of the limited video-creation purposes set forth herein.
 
 Other Information You May Submit
 You may submit data to us for limited purposes such as requesting customer support; answering a questionnaire; participating in a study; entering contests or sweepstakes; or signing up to receive communications from us or another user.
@@ -65,7 +65,7 @@ Whenever we process your data for one of these purposes, we have determined that
   Legitimate commercial interest;
   Compliance with a legal obligation; or
   Consent
-If you require further information about the balancing test that Vimeo has undertaken to justify its reliance on legitimate interest as a lawful basis of processing, see Section 15 for information on how to contact us.
+If you require further information about the balancing test that Alto has undertaken to justify its reliance on legitimate interest as a lawful basis of processing, see Section 15 for information on how to contact us.
 
 5. With Whom We Share Your Data
 We share data with third parties as follows:
@@ -91,7 +91,7 @@ We use reasonable efforts to vet vendors for their privacy and data security pra
 6. Legal and Safety-Related Disclosures
 We may disclose your data in response to official requests (e.g., court orders, subpoenas, search warrants, national security requests, etc.) ("requests") that we receive from government authorities or parties to legal proceedings. We direct law enforcement agencies to our Law Enforcement Guidelines page.
 
-We handle U.S. requests in accordance with U.S. law. If the request originates from a foreign jurisdiction, we will typically disclose information where we in good faith believe that disclosure is permitted by both U.S. law and local law. In all cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
+We handle UK requests in accordance with UK law. If the request originates from a foreign jurisdiction, we will typically disclose information where we in good faith believe that disclosure is permitted by both UK law and local law. In all cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
 
 We may disclose user data where we reasonably believe that someone's life is at risk. For example, if we become aware of a person threatening to commit suicide, we may share that person's data with appropriate entities that may have the ability to help.
 
@@ -104,7 +104,7 @@ We may share your data with potential transaction partners, advisors, and others
 7. Data Retention
 We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. We may retain logs of automatically collected information (for internal analytics and security purposes); your email address; your tax information; communications with you; and your transactional information (for auditing, tax, and financial purposes). When we no longer have a business reason for retaining data, we will delete or anonymize it.
 
-We retain deleted videos on our servers for a short period in case you wish to reverse deletion. Once we delete a video, we may not be able to recover it. If you have previously made a video public, the video or its thumbnail may be discoverable in a search engine's cache for a time. We have no control over search engines; however, we will, upon request, send a request for deletion to major search engines.
+Once you delete a video, we may not be able to recover it. If you have previously made a video public, the video or its thumbnail may be discoverable in a search engine's cache for a time. We have no control over search engines; however, we will, upon request, send a request for deletion to major search engines.
 
 If we receive legal process pertaining to your account, we will retain your data for as long as we in good faith believe is necessary to comply with the legal process. Similarly, if we believe that your account has been involved in wrongdoing, we may preserve your data to defend or assert our rights.
 
@@ -129,16 +129,6 @@ Some of our online subscription plans enable you to "hide" your profile or other
 Team Members
 Some of our subscription plans enable you to grant account-level access rights to others. Persons with such access ("Team Members") may be able to see and potentially alter your data. You may revoke or downgrade Team Member access at any time.
 
-Videos
-We enable you to manage the privacy settings of your videos. On Vimeo.com, for example, your options, which depend on your subscription plan, may include:
-
-  Public (or "anyone"): Your video will be publicly-available.
-  Just you (i.e., "only me"): Your video will be available to you and authorized Team Members.
-  Selected people: Your video will be available to users you select (such as users you follow or specifically-designated users).
-  Password-protected: Your video may be accessed by anyone who enters the password you have set.
-  Private link: Your video may be accessed by anyone who enters the link assigned to it.
-  
-We provide similar options for our Livestream.com services. You may change these settings at any time. Changes will be applied on a go-forward basis. You should exercise caution in granting access to others. Once you have granted access to someone else, you lose a degree of control over the distribution of your video as those persons may share the password and/or link with other people. Regardless of your profile or video privacy settings, Vimeo reserves the right to inspect them for compliance with its Terms of Service, to provide customer support, or to address technical issues.
 
 10. Communications from Us
 Emails
@@ -159,38 +149,20 @@ We may provide links to online services that we do not own or operate. These ser
 You may use our service through third-party sites. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player.
 
 14. International Data Transfers and Certain User Rights
-14.1 Location of Data
-Vimeo is based in the United States. We provide services globally using computer systems, servers, and databases located in the U.S. and other countries. When you use our services from outside of the U.S., your information may be transferred to and processed in the U.S.. Please note that U.S. data and privacy laws may not be as comprehensive as those in your country. Residents of certain countries may be subject to additional protections as set forth in Sections 14.2 and 14.3 below.
 
-14.2 GDPR (EEA Users)
-This Section 14.2 applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EU's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal bases:
+14.1 GDPR (EEA Users)
+This Section 14.1 applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Alto's policy to comply with the EU's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the UK. (or other countries) based upon the following legal bases:
 
-  Legitimate business interests: We could not provide our services or comply with our legal obligations without transferring your personal information to the U.S.
+  Legitimate business interests: We could not provide our services or comply with our legal obligations without transferring your personal information to the UK.
   Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
-  Our certification and adherence to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks, as described further below.
   
 You have the right to: opt out of non-essential cookies (see our Cookie Policy); access, correct, delete, restrict, or object to our use of your personal information; be forgotten; port your data; and withdraw consents. We enable exercise of these rights primarily through our services (which we reserve the right to modify). For example, we allow users to change their information, download their videos, and close their accounts. We also fulfil our obligations in response to direct requests. We will endeavor to process requests within one month. Please note that we may not be able to comply with requests to the extent that they would cause us to violate any law or infringe any other person's rights. We reserve the right to request appropriate identification. We will process requests free of charge unless they would impose an unreasonable cost on us.
 
 If you have a request, complaint or inquiry, please contact our Data Protection Officer at the address listed in Section 15. We are committed to working with you to obtain a fair resolution of any issue. You also have the right to file a complaint with the supervisory data protection authority of your jurisdiction.
 
-14.3 Privacy Shield (EEA, UK and Swiss Users)
-This Section 14.3 applies only to natural persons residing in the European Economic Area (EEA), the United Kingdom and Switzerland (for the purpose of this section only, "you" or "your" shall be limited accordingly). Vimeo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, "Privacy Shield") as established by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA, the United Kingdom and/or Switzerland, as applicable, to the U.S.
-
-Vimeo adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (the "Privacy Shield Principles"). Vimeo has established policies and procedures to ensure compliance with the Privacy Shield Principles and will conduct an annual internal assessment to ensure such compliance. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
-
-Vimeo has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view Vimeo's certification, please visit https://www.privacyshield.gov. By making this certification, Vimeo is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
-
-Where Vimeo has transferred personal information of EEA, UK or Swiss residents to third parties, Vimeo shall be liable if those third parties do not process personal information in compliance with the Privacy Shield Principles. This shall not be the case where Vimeo establishes that it is not responsible for the damage caused by the third party.
-
-In accordance with Privacy Shield Principles, Vimeo commits to resolve complaints about our collection or use of your personal information. If you have inquiries or complaints regarding our Privacy Shield policy, you should first contact Vimeo at the address listed in Section 15. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact our independent recourse mechanism provider, JAMS, at https://www.jamsadr.com/eu-us-privacy-shield, to file a complaint. JAMS' services are provided at no cost to you.
-
-If you have an unresolved complaint after contacting both Vimeo and JAMS, you may elect to arbitrate your Privacy Shield claims against Vimeo pursuant to Annex I of the Privacy Shield Principles, which provides for binding arbitration administered by the American Arbitration Association. Such arbitration will be binding upon you and Vimeo.
 
 15. How to Contact Us
 For any questions, inquiries, or complaints relating to your privacy, please contact us at:
 
-Vimeo, Inc.
-Attention: Data Protection Officer
-555 West 18th Street
-New York, New York 10011
-Privacy@vimeo.com
+Alto Inc
+AppAltoInfo@gmail.com
